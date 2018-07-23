@@ -1,2 +1,2 @@
 # hello-world
-this is a first repository.
+This is a first repository.
